@@ -187,6 +187,7 @@ To make sure the disk **mounts automatically every time the system starts**, we 
 
 ```bash
 sudo vim /etc/fstab
+
 ➕ 2. Add the Disk Entry
 
 At the bottom of the file, add the following line:
