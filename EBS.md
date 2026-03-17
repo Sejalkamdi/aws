@@ -4,20 +4,6 @@ This practical demonstrates how to **create an Amazon EBS volume, attach it to a
 
 ---
 
-# 📁 Repository Structure (GitHub Style)
-
-```
-aws-practicals
-│
-├── README.md
-│
-└── EBS
-    │
-    └── ebs-disk-partition-practical.md
-```
-
----
-
 # 🚀 Practical Steps
 
 ## 🖥️ Step 1 – Launch an EC2 Instance
