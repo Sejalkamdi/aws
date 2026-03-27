@@ -4,20 +4,6 @@ This practical demonstrates how to **create an Amazon EBS volume, attach it to a
 
 ---
 
-# 📁 Repository Structure (GitHub Style)
-
-```
-aws-practicals
-│
-├── README.md
-│
-└── EBS
-    │
-    └── ebs-disk-partition-practical.md
-```
-
----
-
 # 🚀 Practical Steps
 
 ## 🖥️ Step 1 – Launch an EC2 Instance
@@ -201,6 +187,7 @@ To make sure the disk **mounts automatically every time the system starts**, we 
 
 ```bash
 sudo vim /etc/fstab
+
 ➕ 2. Add the Disk Entry
 
 At the bottom of the file, add the following line:
